@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889867807481",
+    "project_id": "fir-futbol21",
+    "storage_bucket": "fir-futbol21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889867807481:android:1ca2ef8ac55afd1e075028",
+        "android_client_info": {
+          "package_name": "com.example.futbol_personalsoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889867807481-eqpp0tesdmegf72snimtigpl32a08ki9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARwKoTngIgs7H7OO_PqGQnsZ2E9tbn9PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889867807481-eqpp0tesdmegf72snimtigpl32a08ki9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
